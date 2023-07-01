@@ -1,0 +1,27 @@
+{
+  "name": "origentattoonodejs",
+  "version": "1.0.0",
+  "description": "Proyecto con node js para el estudio de tatuajes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Tatuajes",
+    "servicio",
+    "galeria",
+    "arte",
+    "piercings"
+  ],
+  "author": "Laura Acosta Cadavid",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.1",
+    "router": "^1.3.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
